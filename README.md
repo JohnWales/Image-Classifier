@@ -1,6 +1,6 @@
 # Image-Classifier
 
-###In everyday life, we may need to separate the men from the boys, the wheat from the chaff, or the sheep from the goats. Hence, in this assessment, you will build an image classifier for images of your choosing. Don't use cats/dogs; use something else - you choose. But only use two or three classes.
+In everyday life, we may need to separate the men from the boys, the wheat from the chaff, or the sheep from the goats. Hence, in this assessment, you will build an image classifier for images of your choosing. Don't use cats/dogs; use something else - you choose. But only use two or three classes.
 
 ###I have made available a program called download_images.py on Canvas. Use it to create your dataset.
 -To install:
