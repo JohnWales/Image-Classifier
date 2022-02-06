@@ -12,7 +12,7 @@ To install:
  $ pip install git+https://github.com/Joeclinton1/google-images-download.git
  
  To run, type (e.g.):
- $ python3 download_images.py 100 cat dog
+ $ python3 download_images.py 100 iphone androidphone
  You won't be allowed a number bigger than 100. And some images may fail to download, so you may end up with fewer than 100.
  It places the images into a folder called downloads.
  
